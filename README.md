@@ -16,20 +16,6 @@
 
 ---
 
-### 🌐 Personal Website
-
-> 🔗 [https://oguzhan.dev](https://oguzhan.dev)  
-> My blog, portfolio, and side projects – all in one place.
-
----
-
-### 📫 Get in Touch
-
-- 💼 [LinkedIn](https://linkedin.com/in/oguzhan)
-- 📬 Email: oguzhan@mail.com
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oguzhan&show_icons=true&theme=radical" />
 </p>
