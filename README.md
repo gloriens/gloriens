@@ -15,5 +15,3 @@
 | **Bubble Defender** | Defend your zone by bursting incoming bubble threats! | [Play Now](https://glorien.itch.io/bubble-defender) |
 
 ---
-
-**gloriens/gloriens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
