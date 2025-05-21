@@ -6,7 +6,7 @@
 
 ---
 
-### 🎮 Interactive Web Projects
+### 🎮 Interactive Projects
 
 | Project | Description | Live Preview |
 |--------|-------------|--------------|
