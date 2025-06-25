@@ -1,7 +1,7 @@
 ## Hello World!👋
 
 <p align="center">
-  Passionate Front-End & Java Developer — building interactive web and game experiences.
+  Passionate Front-End & Game Developer
 </p>
 
 ---
